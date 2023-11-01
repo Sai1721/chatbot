@@ -10,9 +10,9 @@ Follow the instructions below to set up and run the chatbot project on your loca
 
 1. Clone this repository to your local machine:
 
-   ```bash
+
    git clone https://github.com/your-username/chatbot-flask.git
-   ```
+
 
 2. Change the working directory to the project folder:
 
@@ -72,13 +72,6 @@ You can customize the chatbot's behavior, appearance, and functionality by modif
 - `templates/index.html`: Customize the HTML layout of the chat interface.
 - `static/style.css`: Customize the CSS for the chat interface.
 
-## Deployment
-
-To deploy the chatbot application to a web server, you can use a hosting platform like Heroku, AWS, or any other web hosting service. Make sure to set up the necessary environment variables and configure the server according to your chosen deployment method.
-
-## Demo
-
-A live demo of the chatbot application can be found at [example.com](https://example.com).
 
 ## Contributing
 
@@ -92,8 +85,4 @@ If you would like to contribute to this project, please follow these guidelines:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adapt and enhance this README document according to your project's specific requirements and to provide more detailed information about your chatbot application.
+This project is licensed under the MIT License.
